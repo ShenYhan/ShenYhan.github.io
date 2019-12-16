@@ -93,6 +93,12 @@
 <p>执行<code>make</code>即可完成编译，编译后文件夹中生成Grab.o与Grab的可执行文件，最后在IDE中运行即可顺利运行</p>
 <p><img src="/images/Ubuntu%E7%8E%AF%E5%A2%83%E4%B8%8B%E9%85%8D%E7%BD%AE%E5%B7%B4%E6%96%AF%E5%8B%92%E7%9B%B8%E6%9C%BA%E5%8F%8A%E7%9B%B8%E6%9C%BA%E6%B5%8B%E8%AF%95/wel16.jpg" alt="wel16"></p>
 ]]></content>
+      <categories>
+        <category>Camera Config</category>
+      </categories>
+      <tags>
+        <tag>basler</tag>
+      </tags>
   </entry>
   <entry>
     <title>Ubuntu14.04配置pylon及OpenCV并抓取图像显示</title>
@@ -183,7 +189,11 @@
 <p><img src="/images/Ubuntu%E9%85%8D%E7%BD%AEpylon%E5%8F%8AOpenCV%E5%B9%B6%E6%8A%93%E5%8F%96%E5%9B%BE%E5%83%8F%E6%98%BE%E7%A4%BA/TestResult.jpg" alt=""></p>
 <p>​    测试结束。</p>
 ]]></content>
+      <categories>
+        <category>Camera Config</category>
+      </categories>
       <tags>
+        <tag>basler</tag>
         <tag>OpenCV</tag>
       </tags>
   </entry>
